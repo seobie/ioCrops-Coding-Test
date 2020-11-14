@@ -1,5 +1,7 @@
 ## 1. 요구사항
+[data.json](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ada77c5d-fd46-402f-a014-0a0bd8052104/data.json)
 
+[data-1.json](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1da547de-1912-4183-9f35-27857575d2b5/data1.json)
 - 주어진 데이터를 활용하여 프론트엔드만 구현해 주세요.
 - React를 활용하여 SPA(Single Page Application)로 만들어주세요.
 - GUI는 자유롭게 구성하시면 됩니다. 다만 기능을 구현하고 여유가 있다면 UX를 고려해 주세요.
@@ -42,3 +44,10 @@ json 파일은 총 2개이며, 각각 16개의 시계열형식의 데이터를 �
 - 차트 테이블의 순서 drag-and-drop으로 변경할 수 있는 기능
 
 - [ ] **미구현**
+
+---
+
+# 실행가이드
+
+1. 터미널에서 해당 폴더로 이동
+2. `npm start` 입력
